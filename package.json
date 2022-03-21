@@ -1,5 +1,5 @@
 {
-  "name": "staffid-import",
+  "name": "rp-staffid-import",
   "version": "1.0.0",
   "description": "Import RP Staff ID to DB",
   "main": "index.js",
